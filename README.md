@@ -1,2 +1,2 @@
 # digital_design_labs (2010-2011)
-It is my undergrad lab tasks..
+These are my undergrad lab tasks, feel free to use it.
